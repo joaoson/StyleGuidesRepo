@@ -2,5 +2,5 @@
 
 # Steps to run project
 
-cd ./style-guide \n
-npm run start
+## cd ./style-guide 
+## npm run start
