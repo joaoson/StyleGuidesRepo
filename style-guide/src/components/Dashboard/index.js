@@ -119,6 +119,7 @@ function DashboardContent(props) {
               color="inherit"
               noWrap
               sx={{ flexGrow: 1 }}
+              id="title"
             >
               {props.title}
             </Typography>

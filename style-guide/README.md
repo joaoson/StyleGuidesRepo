@@ -6,8 +6,8 @@ Project com Material Design
 - Acesse o diretório do projeto local
 - Rode os comandos:
 ```
-yarn install
-yarn start
+npm install
+npm run start
 ```
 - O projeto irá rodar em [http://localhost:3000](http://localhost:3000) 
 - Analise o código e implemente outros componentes do Material UI: [https://mui.com/pt/components/](https://mui.com/pt/components/alert/)
