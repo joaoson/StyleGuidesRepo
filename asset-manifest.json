@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StyleGuidesRepo/static/css/main.6c2aace4.css",
+    "main.js": "/StyleGuidesRepo/static/js/main.8c14b9bd.js",
+    "static/js/787.c1112931.chunk.js": "/StyleGuidesRepo/static/js/787.c1112931.chunk.js",
+    "index.html": "/StyleGuidesRepo/index.html",
+    "main.6c2aace4.css.map": "/StyleGuidesRepo/static/css/main.6c2aace4.css.map",
+    "main.8c14b9bd.js.map": "/StyleGuidesRepo/static/js/main.8c14b9bd.js.map",
+    "787.c1112931.chunk.js.map": "/StyleGuidesRepo/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c2aace4.css",
+    "static/js/main.8c14b9bd.js"
+  ]
+}
